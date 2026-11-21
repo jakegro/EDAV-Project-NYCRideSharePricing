@@ -8,7 +8,7 @@ library(sf)
 # ============================================
 
 fares <- read_parquet(
-  "data/final/rideshare_clean.parquet"
+  "data/final/rideshare_clean_miles.parquet"
 )
 
 lookup <- read.csv(
