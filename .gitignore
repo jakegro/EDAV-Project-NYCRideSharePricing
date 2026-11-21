@@ -11,3 +11,7 @@ Rplots.pdf
 .Rproj.user/
 *.duckdb
 *.duckdb.wal
+
+# Raw TLC downloads and monthly pieces
+data/raw/fhvhv/
+data/final/monthly_summaries/
