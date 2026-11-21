@@ -1,0 +1,13 @@
+# Large intermediate datasets
+data/processed/
+data/temp/
+data/final/rideshare_summary.csv
+
+# Temporary files
+.DS_Store
+Rplots.pdf
+.Rhistory
+.RData
+.Rproj.user/
+*.duckdb
+*.duckdb.wal
